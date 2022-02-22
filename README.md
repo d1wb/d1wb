@@ -16,7 +16,7 @@
 
 <h3 align="center">Connect with me here</h3>
 <p align="center">
-<img alt="Telegram" src="https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" />
-<img alt="vk" src="https://img.shields.io/badge/-vk-white?style=for-the-badge&logo=vk&logoColor=0077FF" />
+<a href="https://t.me/dalaweb"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://vk.com/dalaweb"><img alt="vk" src="https://img.shields.io/badge/-vk-white?style=for-the-badge&logo=vk&logoColor=0077FF" /></a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=d1wb&show_icons=true&theme=tokyonight" alt="d1wb"/>
