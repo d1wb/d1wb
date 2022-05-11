@@ -4,6 +4,7 @@
 <h3 align="center">Things I code with</h3>
 <p align="center">
 <img alt="Arch" src="https://img.shields.io/badge/-Arch-10A0CC?style=flat-square&logo=archlinux&logoColor=white" />
+<img alt="Ubuntu Server" src="https://img.shields.io/badge/-Ubuntu Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 <img alt="Sublime" src="https://img.shields.io/badge/-Sublime Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white" />
 <img alt="Vscode" src="https://img.shields.io/badge/-vscode-5C2D91?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
